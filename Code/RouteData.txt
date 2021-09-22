@@ -1,0 +1,19 @@
+theClimb You'll be climbing lots
+-31.94,115.75,47.1,[description1]
+-31.94,115.75,55.3,[description2]
+-31.94,115.75,71.0,[description3]
+-31.93,115.75,108.0,[description4]
+-31.93,115.75,131.9
+mainRoute Main route for the route
+-31.96,115.80,63.0,[description5]
+-31.95,115.78,45.3,[description6]
+-31.95,115.77,44.8,*theStroll
+-31.94,115.75,47.1,[description7]
+-31.93,115.72,40.1,[description8]
+-31.94,115.75,47.1,*theClimb
+-31.93,115.75,131.9,[description9]
+-31.92,115.74,128.1
+theStroll Just a simple stroll
+-31.95,115.77,44.8,[description10]
+-31.93,115.76,43.0,[description11]
+-31.94,115.75,47.1
